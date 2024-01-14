@@ -1,2 +1,2 @@
-System.out.println("Buenos noches!");
-System.out.println("Ola!");
+System.out.println("Buenos noches!")
+System.out.println("Ola!")
